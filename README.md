@@ -14,5 +14,9 @@ this repo includes js lecture notes
 - 24.01.2022
 
 # Day 25
-> I'm here https://www.w3schools.com/js/js_objects.asp
-> 25.01.2022
+> I was here https://www.w3schools.com/js/js_objects.asp
+- 25.01.2022
+
+# Day 26
+> I'm here https://www.w3schools.com/js/js_number_methods.asp
+- 26.01.2022
