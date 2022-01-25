@@ -10,5 +10,9 @@ this repo includes js lecture notes
 - 23.01.2022
 
 # Day 24
-> I'm here https://www.w3schools.com/js/js_assignment.asp
+> I was here https://www.w3schools.com/js/js_assignment.asp
 - 24.01.2022
+
+# Day 25
+> I'm here https://www.w3schools.com/js/js_objects.asp
+> 25.01.2022

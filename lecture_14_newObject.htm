@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <p id="textFromObject" onclick="myFunction()"></p>
+        <script>
+            const person = {
+                firstName: "John",
+                lastName : "Altinay",
+                id       : 5566,
+                fullName : function() {
+                    return this.firstName + " " + this.lastName;
+                }
+            };
+            const selcuk = new Person();
+            selcuk.firstName = "Selcuk";
+            document.getElementById("textFromObject").innerHTML = person.firstName; 
+            function Person(fName,lName)
+            {
+                this.fullName = fName;
+                this.lastName = lName;
+            }
+            function myFunction()
+            {
+                document.getElementById("textFromObject").innerHTML = selcuk.firstName + selcuk.lastName;
+            }
+        </script>
+        
+    </body>
+</html>

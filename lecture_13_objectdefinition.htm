@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <p id="textFromObject" onclick="myFunction()"></p>
+        <script>
+            const person = {
+                firstName: "John",
+                lastName : "Doe",
+                id       : 5566,
+                fullName : function() {
+                    return this.firstName + " " + this.lastName;
+                }
+            };
+            document.getElementById("textFromObject").innerHTML = person.firstName; 
+            function myFunction()
+            {
+                document.getElementById("textFromObject").innerHTML = "text changed due to clicking"
+            }
+        </script>
+        
+    </body>
+</html>
