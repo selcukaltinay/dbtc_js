@@ -18,5 +18,9 @@ this repo includes js lecture notes
 - 25.01.2022
 
 # Day 26
-> I'm here https://www.w3schools.com/js/js_number_methods.asp
+> I was here https://www.w3schools.com/js/js_number_methods.asp
 - 26.01.2022
+
+# Day 27
+> I'm here https://www.w3schools.com/js/js_array_methods.asp
+- 27.01.2022
