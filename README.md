@@ -22,5 +22,9 @@ this repo includes js lecture notes
 - 26.01.2022
 
 # Day 27
-> I'm here https://www.w3schools.com/js/js_array_methods.asp
+> I was here https://www.w3schools.com/js/js_array_methods.asp
 - 27.01.2022
+
+# Day 28
+> I'm here https://www.w3schools.com/js/js_booleans.asp
+> 28.01.2022
