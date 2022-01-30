@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript String Methods</h2>
+
+<p>Search a string for "W3Schools", and display the position of the match:</p>
+<br>
+<p>
+Using String Methods
+In JavaScript, regular expressions are often used with the two string methods: search() and replace().
+
+The search() method uses an expression to search for a match, and returns the position of the match.
+
+The replace() method returns a modified string where the pattern is replaced.
+</p>
+<p id="demo"></p>
+
+<script>
+let text = "Visit W3Schools!"; 
+let n = text.search("W3Schools");
+document.getElementById("demo").innerHTML = n;
+</script>
+
+
+<h2>JavaScript Regular Expressions</h2>
+
+<p>Search a string for "w3Schools", and display the position of the match:</p>
+
+<p id="demo2"></p>
+
+<script>
+let text2 = "Visit W3Schools!"; 
+let n2 = text2.search(/w3Schools/i);
+document.getElementById("demo2").innerHTML = n;
+</script>
+
+</body>
+</html>

@@ -30,5 +30,9 @@ this repo includes js lecture notes
 - 28.01.2022
 
 # Day 29
-> I'm here https://www.w3schools.com/js/js_regexp.asp
+> I was here https://www.w3schools.com/js/js_regexp.asp
 - 29.01.2022
+
+# Day 30
+> I'm here https://www.w3schools.com/js/js_strict.asp
+- 30.01.2022
