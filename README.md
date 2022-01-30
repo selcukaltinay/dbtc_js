@@ -26,5 +26,9 @@ this repo includes js lecture notes
 - 27.01.2022
 
 # Day 28
-> I'm here https://www.w3schools.com/js/js_booleans.asp
-> 28.01.2022
+> I was here https://www.w3schools.com/js/js_booleans.asp
+- 28.01.2022
+
+# Day 29
+> I'm here https://www.w3schools.com/js/js_regexp.asp
+- 29.01.2022
