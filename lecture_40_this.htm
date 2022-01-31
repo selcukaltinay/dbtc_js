@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The JavaScript <i>this</i> Keyword</h1>
+<p>In this example, <b>this</b> refers to the <b>person</b> object.</p>
+<p>Because <b>fullName</b> is a method of the person object.</p>
+
+<p id="demo"></p>
+<div>
+<input id="firstName">
+<input id="lastName">
+
+<button type="button" onclick="person.setFullName()">set the name!</button>
+<button type="button" onclick="person.getFullName()">get the name!</button>
+</div>
+
+<script>
+// Create an object:
+
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  id: 5566,
+  getFullName : function() {
+    document.getElementById("demo").innerHTML = this.getFullName();
+    return this.firstName + " " + this.lastName;
+  },
+  setFullName : function() {
+    this.firstName = document.getElementById("firstName").innerHTML;
+    this.lastName = document.getElementById("lastName").innerHTML;
+    document.getElementById("firstName").innerHTML=" ";
+    document.getElementById("lastName").innerHTML=" ";
+  }
+};
+
+document.getElementById("demo").innerHTML = person.getFullName();
+// Display data from the object:
+</script>
+
+</body>
+</html>
