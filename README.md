@@ -38,5 +38,9 @@ this repo includes js lecture notes
 - 30.01.2022
 
 # Day 31
-> I'm here https://www.w3schools.com/js/js_this.asp
+> I was here https://www.w3schools.com/js/js_this.asp
 - 31.01.2022
+
+# Day 32
+> I'm here https://www.w3schools.com/js/js_conventions.asp
+- 01.01.2022
