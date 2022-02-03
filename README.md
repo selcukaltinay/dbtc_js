@@ -46,5 +46,9 @@ this repo includes js lecture notes
 - 01.02.2022
 
 # Day 33
->I'm here https://www.w3schools.com/js/js_versions.asp
+> I was here https://www.w3schools.com/js/js_versions.asp
 - 02.02.2022
+
+# Day 34
+> I'm here https://www.w3schools.com/js/js_es6.asp
+- 03.02.2022 
