@@ -58,5 +58,9 @@ this repo includes js lecture notes
 - 04.02.2022
 
 # Day 36
-> I'm here https://www.w3schools.com/js/js_asynchronous.asp
+> I was here https://www.w3schools.com/js/js_asynchronous.asp
 - 05.02.2022
+
+# Day 37
+> I'm here https://www.w3schools.com/js/js_htmldom_elements.asp
+-06.02.2022
