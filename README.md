@@ -62,5 +62,9 @@ this repo includes js lecture notes
 - 05.02.2022
 
 # Day 37
-> I'm here https://www.w3schools.com/js/js_htmldom_elements.asp
--06.02.2022
+> I was here https://www.w3schools.com/js/js_htmldom_elements.asp
+- 06.02.2022
+
+# Day 38
+> I'm here https://www.w3schools.com/js/js_api_intro.asp
+- 07.02.2022
