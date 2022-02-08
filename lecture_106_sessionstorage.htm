@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+<p>The sessionStorage object is identical to the localStorage object.
+<br>
+    The difference is that the sessionStorage object stores data for one session.
+    <br>
+    The data is deleted when the browser is closed.</p>
+<script>
+sessionStorage.setItem("name","John Doe");
+document.getElementById("demo").innerHTML = sessionStorage.getItem("name");
+</script>
+
+</body>
+</html>
