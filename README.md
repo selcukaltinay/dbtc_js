@@ -74,5 +74,9 @@ this repo includes js lecture notes
 - 08.02.2022
 
 # Day 40
-> I'm here https://www.w3schools.com/js/js_ajax_intro.asp
+> I was here https://www.w3schools.com/js/js_ajax_intro.asp
 - 09.02.2022
+
+# Day 41
+> I'm here https://www.w3schools.com/js/js_ajax_http_response.asp
+- 10.02.2022
