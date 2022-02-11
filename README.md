@@ -78,5 +78,9 @@ this repo includes js lecture notes
 - 09.02.2022
 
 # Day 41
-> I'm here https://www.w3schools.com/js/js_ajax_http_response.asp
+> I was here https://www.w3schools.com/js/js_ajax_http_response.asp
 - 10.02.2022
+
+# Day 42
+> I'm here https://www.w3schools.com/sql/sql_where.asp
+- 11.02.2022
