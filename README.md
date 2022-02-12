@@ -84,3 +84,7 @@ this repo includes js lecture notes
 # Day 42
 > I'm here https://www.w3schools.com/sql/sql_where.asp
 - 11.02.2022
+
+# Day 43
+> Completed (I will be back)
+- 11.02.2022
